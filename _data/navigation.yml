@@ -3,6 +3,6 @@ main:
   - title: "Archive"
     url: /year-archive/
   - title: "tag"
-    url: /tags/
+    url: /tag-archive/
   - title: "Category"
-    url: /categories/
+    url: /category-archive/
