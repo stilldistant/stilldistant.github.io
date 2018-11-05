@@ -1,7 +1,7 @@
 ---
 title: "Test"
 categories: 
-  - 1
+  - First
 ---
 
 tests
